@@ -20,3 +20,6 @@ if test passes
 <p>run python file </p>
 
 ``python main.py``
+
+
+https://github.com/user-attachments/assets/528dbae9-e1f6-42e2-b120-fd7afe27da18
